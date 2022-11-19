@@ -1,0 +1,27 @@
+body {
+
+}
+
+.navbar {
+    border-bottom: 0.5px solid whitesmoke;
+}
+
+
+.slider-image {
+    width: 100vw;
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+
+    
+}
+
+.card-img-top {
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+
